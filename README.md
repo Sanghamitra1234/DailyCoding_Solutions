@@ -38,3 +38,7 @@
   Given N, write a function that returns the number of unique ways you can climb the staircase. The order of the steps matters.
   <hr></hr>
   
+  ### Problem 013
+  Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
+  For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
+  <hr></hr>
